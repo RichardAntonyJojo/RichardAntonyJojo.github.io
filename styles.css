@@ -1,0 +1,26 @@
+{
+  margin:0;
+  padding:10px;
+  font-family: sans-serif;
+}
+
+.me{
+  position: relative;
+  width:auto;
+  height: auto;
+  background:black;
+}
+
+nav{
+  display: flex;
+  width:84%;
+  margin:auto;padding:20% 0;
+  align-items: center;
+  justify-content: space-around;
+}
+ nav ul li{
+   display:inline-block;
+   list-style: none;
+   margin:10px,20px;
+
+ }
